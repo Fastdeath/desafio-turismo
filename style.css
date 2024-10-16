@@ -29,6 +29,10 @@ h1 {
   height: 37px;
 }
 
+#details {  
+  font-style: italic
+}
+
 #first span {
   width: 1120px;
   border-color: gray solid 1px;
