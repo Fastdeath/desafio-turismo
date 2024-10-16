@@ -1,0 +1,130 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  box-sizing: border-box;
+}
+
+#page {
+  width: 1120px;
+  margin: auto;
+  padding: 88px 80px;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  margin: 8px 0 40px;
+  line-height: 49px;
+}
+
+#first img {
+  margin-bottom: 24px;
+}
+
+#first p {
+  margin-bottom: 44px;
+  height: 37px;
+}
+
+#first span {
+  width: 1120px;
+  border-color: gray solid 1px;
+  margin-bottom: 64px;
+}
+
+section #coment {
+  color: #E1624F;
+  margin-bottom: 6px;
+  font-weight: bold;
+}
+
+#second h2 {
+  height: 44px;
+  margin-bottom: 8px;
+}
+
+#second img {
+  margin: 64px 0 20px;
+}
+
+#second h3 {
+  height: 38px;
+  margin-bottom: 4px;
+}
+
+#goodFor {
+  font-weight: bold;
+}
+
+ul li {
+  padding-left: 12px;
+  color: #0C51A7;
+  font-weight: bold;
+  list-style: none;
+}
+
+#third img {
+  margin-top: 48px;
+}
+
+#third h4 {
+  height: 38px;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0 4px;
+}
+
+#fourth img {
+  margin: 48px 0 20px;
+}
+
+#fourth h4 {
+  height: 38px;
+  font-size: 20px;
+}
+
+#fourth ul {
+  margin-bottom: 40px;
+}
+
+#item1 {
+  color: #591B98;
+}
+
+#item2 {
+  color: #E5245E;
+}
+
+#item3 {
+  color: #E95E10;
+}
+
+#fourth span {
+  margin: 40px 0 40px;
+}
+
+span {
+  display: flex;
+  height: 2px;
+  background-color: gray;
+  width: 1120px;
+}
+
+#finalThoughts {
+  text-align: center;
+  font-size: 16px;
+  height: 66px;
+}
+
+footer {
+  margin: auto;
+  width: 206px;
+  height: 24px;  
+}
+
+footer img {
+  vertical-align: middle;
+}
